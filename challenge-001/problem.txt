@@ -1,0 +1,1 @@
+Write a program to solve the FeedMe problem and print the numbers 1 through 20. However, any number divisible by 3 should be replaced by the word ‘Thirsty’ and any divisible by 5 by the word ‘Bird’. Those numbers that are both divisible by 3 and 5 become ‘ThirstyBird’.
